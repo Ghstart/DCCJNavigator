@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DCCJNavigator_Example' do
+  pod 'DCCJNavigator', :path => '../'
+
+  target 'DCCJNavigator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
