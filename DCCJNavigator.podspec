@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DCCJNavigator'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DCCJNavigator.'
+  s.summary          = 'mainly to handle viewController push to another vc'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+It mainly handles viewController push to another vc, or present to another, or open url
                        DESC
 
   s.homepage         = 'https://github.com/Ghstart/DCCJNavigator'

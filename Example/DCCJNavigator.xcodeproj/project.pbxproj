@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		42A35C941CDAF91E963D8FC0 /* Pods_DCCJNavigator_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DCCJNavigator_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D504617C51157271A1A77DE /* Pods-DCCJNavigator_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DCCJNavigator_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DCCJNavigator_Example/Pods-DCCJNavigator_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		519F33995EAEA48D946CE96B /* DCCJNavigator.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DCCJNavigator.podspec; path = ../DCCJNavigator.podspec; sourceTree = "<group>"; };
+		519F33995EAEA48D946CE96B /* DCCJNavigator.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = DCCJNavigator.podspec; path = ../DCCJNavigator.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5CB05FAB159C29153D5A73C4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* DCCJNavigator_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DCCJNavigator_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
