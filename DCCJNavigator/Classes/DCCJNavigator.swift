@@ -15,7 +15,7 @@ public protocol DCCJNavigator {
     func open(url: String)
 }
 
-extension DCCJNavigator {
+public extension DCCJNavigator {
     func present(to destination: Destination, from vc: UIViewController) {}
     
     func open(url: String) {
