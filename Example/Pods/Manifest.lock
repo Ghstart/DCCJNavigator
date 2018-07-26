@@ -1,0 +1,16 @@
+PODS:
+  - DCCJNavigator (0.1.0)
+
+DEPENDENCIES:
+  - DCCJNavigator (from `../`)
+
+EXTERNAL SOURCES:
+  DCCJNavigator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DCCJNavigator: ddd9e000fdb0416f25694da54b261f06f54c9381
+
+PODFILE CHECKSUM: dc5d0a5898045bbc484412c59f70cdf3e512b15f
+
+COCOAPODS: 1.5.3

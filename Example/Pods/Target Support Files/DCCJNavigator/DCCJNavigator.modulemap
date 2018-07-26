@@ -1,0 +1,6 @@
+framework module DCCJNavigator {
+  umbrella header "DCCJNavigator-umbrella.h"
+
+  export *
+  module * { export * }
+}
